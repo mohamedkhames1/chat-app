@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "783684897091",
+    "project_id": "scholer-chat-3bb0e",
+    "storage_bucket": "scholer-chat-3bb0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783684897091:android:4664319923f63dbb4687f6",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgbyYgKLZMfsIixS_BnJQspeCAF_0eK-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
